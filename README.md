@@ -87,9 +87,10 @@ site: http://hits.dwyl.com or https://visitor-badge.glitch.me
 Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
 -->
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shashank-aiml&show_icons=true&locale=en" alt="shashank-aiml" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-aiml&" alt="shashank-aiml" />
+  <img align="left" width= "50%" src="https://github-readme-stats.vercel.app/api?username=shashank-aiml&show_icons=true&locale=en" alt="shashank-aiml" />
+  <img align="right" width= "50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-aiml&" alt="shashank-aiml" />
 </p>
+
 
 
 
