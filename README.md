@@ -1,9 +1,9 @@
 <!-- Your title -->
 ### Hey Shashank here 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+![Green and White Simple Blog Post Guide LinkedIn Article Cover Image ](https://github.com/user-attachments/assets/360caabc-d800-4dba-9a71-b336b1d6adf9)
+
+
 
 **I am a Full-stack Mobile and Web Developer who is exploring Cloud ☁️ while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. 😉.**
 
