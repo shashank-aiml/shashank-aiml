@@ -1,6 +1,9 @@
 <!-- Your title -->
 ### Hey Shashank here 👋
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
+</p>
 
 **I am a Full-stack Mobile and Web Developer who is exploring Cloud ☁️ while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. 😉.**
 
@@ -13,13 +16,10 @@ You can use the website to generate badges: https://shields.io/
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/__shashank_srivastava__/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](shashankjop@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](shashankjop@gmail.com)
-
 &nbsp;
 
-<!-- Talking about you -->
 **Talking about Personal Stuffs:**
 
-<!-- Any image aligned to the right. Beware the width -->
 
 - 🔭 I’m planning for a Project MYC: ML-based System for Student Guidance.
 - 🌱 I’m currently learning Kotlin and CI/CD
@@ -82,13 +82,9 @@ You can use the website to generate badges: https://shields.io/
 </table>
 
 
-<!-- Your hits or visitors
-site: http://hits.dwyl.com or https://visitor-badge.glitch.me
-Both apis are in trouble due to the number of requests, if you know any other to register visitors, great
--->
 <p align="center">
-  <img align="left" width= "50%" src="https://github-readme-stats.vercel.app/api?username=shashank-aiml&show_icons=true&locale=en" alt="shashank-aiml" />
-  <img align="right" width= "50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-aiml&" alt="shashank-aiml" />
+  <img align="center" width= "50%" src="https://github-readme-stats.vercel.app/api?username=shashank-aiml&show_icons=true&locale=en" alt="shashank-aiml" />
+  <img align="center" width= "50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-aiml&" alt="shashank-aiml" />
 </p>
 
 
