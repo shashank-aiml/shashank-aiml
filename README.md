@@ -98,7 +98,7 @@ Both apis are in trouble due to the number of requests, if you know any other to
 I created these images, feel free to use them.
 -->
 <p align="center">
-  <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/shashank02/.github/master/.resources/support-buy-coffee.png"/>
+  <a href="https://buymeacoffee.com/shashank02" target="_blank">
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
