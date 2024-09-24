@@ -99,6 +99,6 @@ I created these images, feel free to use them.
 -->
 <p align="center">
   <a href="https://www.buymeacoffee.com/onimur" target="_blank">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/support-buy-coffee.png"/>
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/shashank02/.github/master/.resources/support-buy-coffee.png"/>
   </a>
 </p>
