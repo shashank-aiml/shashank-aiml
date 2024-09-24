@@ -40,44 +40,36 @@ You can use the website to generate badges: https://shields.io/
     <td><img src="https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Dart-00BFFF?style=flat&logo=dart&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Firebase-FFA611?style=flat&logo=firebase&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=googlecloud&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-JavaScript-EAD41C?style=flat&logo=javascript&logoColor=black"></td>
-    <td><img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Laravel-EF3E30?style=flat&logo=laravel&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=node.js&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Oracle-F80000?style=flat&logo=oracle&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-PyTorch-EF553B?style=flat&logo=pytorch&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-Seaborn-9B1B30?style=flat&logo=seaborn&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-TensorFlow-FF6F20?style=flat&logo=tensorflow&logoColor=white"></td>
     <td><img src="https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=white"></td>
-    <td><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"></td>
   </tr>
 </table>
 
